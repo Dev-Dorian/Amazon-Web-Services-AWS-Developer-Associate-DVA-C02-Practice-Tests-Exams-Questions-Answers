@@ -9,8 +9,8 @@ There are many ways to support us; in exchange, you'll get this material in a pr
 - ❤️ [shop.ditectrev.com, in EPUB or PDF formats, with answers marked](https://shop.ditectrev.com/product/amazon-web-services-certified-aws-certified-developer-associate-dva-c02-practice-tests-exams-questions-answers),
 - ❤️ [shop.ditectrev.com, in EPUB or PDF formats, without answers marked](https://shop.ditectrev.com/product/amazon-web-services-certified-aws-certified-developer-associate-dva-c02-practice-tests-exams-questions-no-answers),
 - 📖 [Udemy is the only one to have explanations for questions](https://www.udemy.com/course/aws-certified-developer-associate-dva-c02-practice-exams-o/?referralCode=F5DA24D55B35D823086A),
-- 🖨️ [Amazon, printable physical book in paperback or hardcover (Kindle available, too), with answers marked](https://www.amazon.com//Daniel-Danielecki-ebook/dp/B0FH9J8FTF)
-- 🖨️ [Amazon, printable physical book in paperback or hardcover (Kindle available, too), without answers marked](https://www.amazon.com//Daniel-Danielecki-ebook/dp/B0FHFRNK8H)
+- 🖨️ [Amazon, printable physical book in paperback or hardcover (Kindle available, too), with answers marked](https://www.amazon.com//Daniel-Danielecki-ebook/dp/B0FH9J8FTF),
+- 🖨️ [Amazon, printable physical book in paperback or hardcover (Kindle available, too), without answers marked](https://www.amazon.com//Daniel-Danielecki-ebook/dp/B0FHFRNK8H),
 - 📚 [Google Play Books, in PDF format, with answers marked](https://play.google.com/store/books/details?id=0XL-EAAAQBAJ),
 - 📚 [Google Play Books, in PDF format, without answers marked](https://play.google.com/store/books/details?id=z3L-EAAAQBAJ),
 - 🛍️ [Etsy, in PDF format, with answers marked](https://ditectrev.etsy.com/listing/1548083846),
