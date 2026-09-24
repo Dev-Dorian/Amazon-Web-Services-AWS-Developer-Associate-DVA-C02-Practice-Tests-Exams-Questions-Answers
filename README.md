@@ -1602,9 +1602,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### A developer is creating an AWS Lambda function that generates a new file each time it runs. Each new file must be checked into an AWS CodeCommit repository hosted in the same AWS account. How should the developer accomplish this?
 
-- [x] When the Lambda function starts, use the Git CLI to clone the repository. Check the new file into the cloned repository and push the change.
+- [ ] When the Lambda function starts, use the Git CLI to clone the repository. Check the new file into the cloned repository and push the change.
 - [ ] After the new file is created in Lambda, use cURL to invoke the CodeCommit API. Send the file to the repository.
-- [ ] Use an AWS SDK to instantiate a CodeCommit client. Invoke the `put_file` method to add the file to the repository.
+- [x] Use an AWS SDK to instantiate a CodeCommit client. Invoke the `put_file` method to add the file to the repository.
 - [ ] Upload the new to an Amazon S3 bucket. Create an AWS Step Function to accept S3 events. In the Step Function, add the new file to the repository.
 
 **[⬆ Back to Top](#table-of-contents)**
